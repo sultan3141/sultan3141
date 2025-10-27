@@ -66,13 +66,19 @@
 ## 🎯 Featured Projects
 
 ### 🎓 [MGSA Student Portal](https://zestful-optimism-mgsa-student-portal.up.railway.app/)
-🚀 **Full-Stack Django Application** - A comprehensive student management system featuring:
-- Modern, responsive user interface
-- Student registration and profile management
-- Course enrollment system
-- Academic records tracking
-- Real-time notifications
-- Admin dashboard for management
+🚀 **Full-Stack Django Application**  
+
+A comprehensive student management system featuring:
+
+- Modern, responsive user interface for students, executives, and admins  
+- Student registration, login, and profile management  
+- Course and tutorial enrollment system  
+- Academic records tracking and analytics  
+- Real-time notifications and feedback submission  
+- Role-based dashboards for students, executives, and administrators  
+- Admin tools for reports, CSV exports, and student demographics  
+- RESTful API endpoints for integration with other applications  
+
 
 **Tech Stack:** Django, Python, HTML5, CSS3, JavaScript, Bootstrap, Railway Deployment
 
