@@ -63,49 +63,6 @@
 
 ---
 
-## 🎯 Featured Projects
-
-### 🎓 [MGSA Student Portal](https://zestful-optimism-mgsa-student-portal.up.railway.app/)
-🚀 **Full-Stack Django Application**  
-
-A comprehensive student management system featuring:
-
-- Modern, responsive user interface for students, executives, and admins  
-- Student registration, login, and profile management  
-- Course and tutorial enrollment system  
-- Academic records tracking and analytics  
-- Real-time notifications and feedback submission  
-- Role-based dashboards for students, executives, and administrators  
-- Admin tools for reports, CSV exports, and student demographics  
-- RESTful API endpoints for integration with other applications  
-
-
-**Tech Stack:** Django, Python, HTML5, CSS3, JavaScript, Bootstrap, Railway Deployment
-
-### 🌐 [Social Media API](https://alx-djangolearnlab1.onrender.com)
-🔥 **RESTful Backend API** - Feature-rich social media backend with:
-- User authentication & authorization
-- Post creation and management
-- Like/comment system
-- User follow/unfollow functionality
-- JWT token authentication
-- Comprehensive API documentation
-- **API Testing:** Postman collections for endpoint validation
-
-**Tech Stack:** Django REST Framework, JWT, PostgreSQL, Render Deployment, Postman
-
-### 🏫 [School Management System](https://safe-skill-academy.onrender.com)
-📚 **Educational Platform** - Complete school administration solution:
-- Student and teacher management
-- Course and class organization
-- Attendance tracking
-- Grade management system
-- Parent portal integration
-- Reporting and analytics
-
-**Tech Stack:** Django, REST API, PostgreSQL, Render Deployment, Postman
-
----
 
 ## 📊 GitHub Analytics
 
