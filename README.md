@@ -1,94 +1,114 @@
-# 👋 Hi there, I'm Sultan Adinan
+# Hi, I'm Sultan Adinan 👋
 
 <p align="center">
   <em>
-    A certified <strong>ALX Ethiopia Backend Engineer</strong> with hands-on experience in designing, building, and deploying 
-    scalable web applications. Passionate about <strong>Python, Django, REST APIs</strong>, and creating impactful full-stack solutions 
-    that make a difference.
+    Full-Stack &amp; Mobile App Developer | Certified ALX Ethiopia Backend Engineer<br/>
+    Founder of <strong>Hegere Technologies</strong> — building scalable web and mobile solutions
+    with modern backend, frontend, and mobile technologies.
   </em>
 </p>
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/Open%20Source-Contributor-success)
-![Status](https://img.shields.io/badge/Status-Available%20for%20Internships-blue)
-![Projects](https://img.shields.io/badge/Projects-3%20Live%20Deployments-orange)
+![Status](https://img.shields.io/badge/Status-Building%20Hegere%20Technologies-blue?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Mobile-orange?style=flat-square)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 **Certified ALX Ethiopia Backend Engineer** with practical experience in full-stack web development.  
-💻 I've developed and deployed real-world projects, including:  
-- 🎓 **[MGSA Student Portal](https://zestful-optimism-mgsa-student-portal.up.railway.app/)** — A comprehensive student management system with modern UI/UX
-- 🌐 **[Social Media API](https://alx-djangolearnlab1.onrender.com)** — RESTful API with Django REST Framework
-- 🏫 **[School Management System](https://safe-skill-academy.onrender.com)** — Complete backend solution for educational institutions
-
-🧠 Skilled in **Django**, **Python**, **JavaScript**, **HTML/CSS**, **REST APIs**, **Git**, and **GitHub**.  
-🚀 Open to **internship opportunities** to test and enhance my skills in real-world environments.  
-💬 Passionate about solving community challenges and contributing to open-source projects.
+- 🎓 Certified **ALX Ethiopia Backend Engineer**, now working as a **Full-Stack & Mobile App Developer**
+- 🏢 Founder and lead developer at **Hegere Technologies**, my own software startup
+- 🛠️ Experienced across **backend, frontend, and mobile** development, from planning to production
+- 🖥️ Skilled in **server deployment and management** — setting up, configuring, and maintaining production servers end-to-end
+- 🌍 Passionate about building solutions that solve real community and business problems
+- 🤝 Open to collaborations, freelance work, and internship opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🔧 Backend & Databases
+**Backend**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DjangoRESTFramework-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+**Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+**Mobile**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+**Databases**
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 💻 Frontend
+**Deployment & DevOps**
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Servers-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Platforms
+**Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
+## Hegere Technologies
 
-
-
-
-## 🌟 Currently Exploring
-
-- 🔐 Advanced Django security practices
-- ⚡ Performance optimization techniques
-- 🐳 Docker containerization
-- 🔄 CI/CD pipelines
-- 🎯 Advanced JavaScript frameworks
-- ☁️ Cloud deployment strategies
-- 🧪 API testing and documentation with Postman
+**Hegere Technologies** is my own startup, where I design, build, and deploy web and mobile products for clients and communities. Through it, I've worked on multiple projects spanning backend systems, APIs, and mobile applications — turning ideas into scalable, real-world solutions.
 
 ---
 
-## 🎯 Career Goals
+## Currently Exploring
 
-🌍 Apply my full-stack skills through **internships** and **collaborative projects**  
-🧩 Contribute to **open-source projects** focused on education and community development  
-🏆 Grow into a **world-class software engineer** who builds scalable, impactful systems  
-💡 Create solutions that address real-world challenges in education and beyond
+- Advanced mobile app development with Flutter and React Native
+- Advanced backend security and performance optimization
+- Docker containerization and CI/CD pipelines
+- Cloud deployment and server infrastructure strategies
 
 ---
 
-## 📫 Let's Connect
+## Career Goals
+
+- Grow **Hegere Technologies** into a company delivering impactful web and mobile products
+- Contribute to open-source projects focused on education and community development
+- Grow into a world-class software engineer who builds scalable, impactful systems
+- Build solutions that address real-world challenges in education and beyond
+
+---
+
+## Let's Connect
 
 <div align="center">
 
@@ -103,7 +123,7 @@
 
 <div align="center">
 
-### 💡 Open to internships & collaborations — Let's build something meaningful together! 🚀
+**Founder of Hegere Technologies — Building meaningful web & mobile solutions**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
