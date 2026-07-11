@@ -64,17 +64,8 @@
 ---
 
 
-## 📊 GitHub Analytics
 
-<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=sultan3141&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sultan3141&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sultan3141&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
 
 ## 🌟 Currently Exploring
 
